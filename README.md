@@ -21,6 +21,8 @@ If you're on OS X, use [Homebrew](http://brew.sh/) to install (no Go required).
 
 ## Quick start
 
+`pup` binary will be available at `~/go/bin/pup`
+
 ```bash
 $ curl -s https://news.ycombinator.com/
 ```
